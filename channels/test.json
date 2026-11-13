@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "channel": "test",
+  "sequence": 4,
+  "baseUrl": "https://github.com/rekanbag1122/ronex-shop-releases/releases/download",
+  "paused": false,
+  "target": "1.0.912",
+  "rollout": {
+    "stage": "all",
+    "pilot": [],
+    "percent": 100
+  },
+  "hold": {},
+  "releases": [
+    {
+      "version": "1.0.912",
+      "tag": "test-v1.0.912",
+      "file": "Ronex-Update-Test-Setup-1.0.912.exe",
+      "sha512": "p6cdFodQ5h1D5nC8a/0EVbDOg6I5V0sB+FGjq1NeSJoTJpnfcOvodGFiyxfsHyCjZpFhJ2zZXDWBLFyrs4aSZw==",
+      "size": 163704964,
+      "notes": "Update test release (not for shops)",
+      "critical": false,
+      "publishedAt": "2026-11-13T00:09:49.431Z"
+    }
+  ],
+  "issuedAt": "2026-11-13T00:09:49.704Z",
+  "signature": "J9avvDFc2yPelaogQqqcew0iOeQmSZFeuGTpWFmfUHLnu/J24BzdS/SzMIDWj+01sW+cK2XTI6wLWAQxQtigDw=="
+}

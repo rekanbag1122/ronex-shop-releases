@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "sequence": 1,
+  "baseUrl": "https://github.com/rekanbag1122/ronex-shop-releases/releases/download",
+  "paused": false,
+  "target": null,
+  "rollout": {
+    "stage": "pilot",
+    "pilot": [],
+    "percent": 0
+  },
+  "hold": {},
+  "releases": [],
+  "issuedAt": "2026-11-13T00:09:48.873Z",
+  "signature": "/wzdgxYftkUAob9pa13TDZVjvnRIG4dLfX5jQGHjoyE6xkXTBDKSCKtraHiJsqdl9c5NNNZsypQjNjyEeaMNBg=="
+}
