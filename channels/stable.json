@@ -1,17 +1,30 @@
 {
   "schema": 1,
   "channel": "stable",
-  "sequence": 1,
+  "sequence": 4,
   "baseUrl": "https://github.com/rekanbag1122/ronex-shop-releases/releases/download",
   "paused": false,
-  "target": null,
+  "target": "1.0.53",
   "rollout": {
     "stage": "pilot",
-    "pilot": [],
+    "pilot": [
+      "e20a01df136b18f3"
+    ],
     "percent": 0
   },
   "hold": {},
-  "releases": [],
-  "issuedAt": "2026-11-13T00:09:48.873Z",
-  "signature": "/wzdgxYftkUAob9pa13TDZVjvnRIG4dLfX5jQGHjoyE6xkXTBDKSCKtraHiJsqdl9c5NNNZsypQjNjyEeaMNBg=="
+  "releases": [
+    {
+      "version": "1.0.53",
+      "tag": "v1.0.53",
+      "file": "Ronex-Shop-1-Setup-1.0.53.exe",
+      "sha512": "kC5cSjlbEwhx7Bpfe5SmzHCh/y1jKasbs6MIwNw/G+oQB4y8eOpCuogNyW6G6XjptIIVKELruTp78lSHEA4jsg==",
+      "size": 163826618,
+      "notes": "Cashbooks: Super Admin reset/archive/delete/move with archive and accounting entry; redesigned Cashbooks, Sale History, Invoice Search, Capital; phone purchases and phone Sales History; top-bar sync button; Inventory redesign; stability fixes.",
+      "critical": false,
+      "publishedAt": "2026-11-15T08:20:21.305Z"
+    }
+  ],
+  "issuedAt": "2026-11-15T08:20:28.355Z",
+  "signature": "4lLzivehOB4JxhEpt71nOCdRUf8ozbUN8VvU1qgtHNU2bqNSx0FxJ1lUFziAa5qFh1LdXNi7vH+aXKEKLasxAA=="
 }
