@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "channel": "stable",
-  "sequence": 4,
+  "sequence": 5,
   "baseUrl": "https://github.com/rekanbag1122/ronex-shop-releases/releases/download",
-  "paused": false,
+  "paused": true,
   "target": "1.0.53",
   "rollout": {
     "stage": "pilot",
@@ -25,6 +25,6 @@
       "publishedAt": "2026-11-15T08:20:21.305Z"
     }
   ],
-  "issuedAt": "2026-11-15T08:20:28.355Z",
-  "signature": "4lLzivehOB4JxhEpt71nOCdRUf8ozbUN8VvU1qgtHNU2bqNSx0FxJ1lUFziAa5qFh1LdXNi7vH+aXKEKLasxAA=="
+  "issuedAt": "2026-11-15T08:31:32.795Z",
+  "signature": "a+yLczfCZHIi1aJTOUZEtsqvWSUMj7pjRF2qPDg/cJfgNDg2679lLU9pPdcVlYfxq8Fd/zeLrPsl8uVLE6zZDw=="
 }
